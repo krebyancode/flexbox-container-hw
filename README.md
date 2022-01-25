@@ -1,4 +1,4 @@
 # flexbox-container-hw
-Responsive Design
+Responsive Design - Flex, MediaQuery Basics
 
  https://krebyancode.github.io/flexbox-container-hw/
